@@ -26,9 +26,9 @@
 
 ## 🎮 Conceito do Projeto
 
-O jogo é estruturado com base em IA generativa, responsável por:
+O jogo é estruturado com base total em IA generativa
 
-- Assets inseridos na pasta assets para análise...
+
 
 ## 🛠️ Tecnologias Utilizadas
 
