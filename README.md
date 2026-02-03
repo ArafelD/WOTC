@@ -45,3 +45,12 @@ O jogo é estruturado com base total em IA generativa
 - **CI/CD:** GitHub Actions
 - **Versionamento:** Git
 
+### 3. 📦 Estrutura do Repositório
+```text
+/
+├── app/          # Código fonte principal
+├── docs/         # Documentação extra
+├── tests/        # Testes automatizados
+├── .github/      # Workflows de CI/CD
+└── README.md
+ 	
