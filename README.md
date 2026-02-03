@@ -1,4 +1,4 @@
-🧙‍♂️ Wizards Of The Code (WOTC) :rage1:
+## 🧙‍♂️ Wizards Of The Code (WOTC) :rage1:
 
 **Projeto experimental de jogo orientado por IA, exploração proposital de glitches e design não convencional.**
 
